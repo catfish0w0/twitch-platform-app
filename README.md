@@ -15,7 +15,7 @@ This is an app designed to clone the idea of Twitch using Twitch API. The idea i
 1. want to Gain Practice on using Spring in web-application
 2. The current recommendation system that Twitch used does not fit my personal preferrence.
 
-### Demo
+### Screenshot
 
 
 ### Links
