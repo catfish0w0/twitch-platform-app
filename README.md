@@ -40,5 +40,8 @@ I would like to improve on.
 * implement two-factor authentication on the login function.
 
 ### Useful Resources
-
+* [Ant Design](https://ant.design/docs/react/introduce)
+* [Twitch API](https://dev.twitch.tv/docs/api/)
+* [Amazon RDS](https://aws.amazon.com/rds/)
+* [Amazon EC2](https://aws.amazon.com/ec2/)
 
