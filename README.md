@@ -16,7 +16,7 @@ This is an app designed to clone the idea of Twitch using Twitch API. The idea i
 2. The current recommendation system that Twitch used does not fit my personal preferrence.
 
 ### Screenshot
-
+![My Image](Twitch.PNG)
 
 ### Links
 * Link      : [website](http://3.145.56.163/)
