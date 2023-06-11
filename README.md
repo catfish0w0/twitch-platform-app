@@ -15,9 +15,9 @@ This is an app designed to clone the idea of Twitch using Twitch API. The idea i
 ### Demo
 
 ### Links
-⋅⋅* Link      : [website](http://3.145.56.163/)
+* Link      : [website](http://3.145.56.163/)
 
-⋅⋅* Solution  : [@Github](https://github.com/catfish0w0/twitch-platform-app)
+* Solution  : [@Github](https://github.com/catfish0w0/twitch-platform-app)
 
 ## MyProcess
 ### Built With
